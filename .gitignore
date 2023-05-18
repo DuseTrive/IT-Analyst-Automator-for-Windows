@@ -1,2 +1,4 @@
 # Ignore files starting with a number
 /[0-9]*
+/Tester2.vbs
+/Tester Copy.vbs
